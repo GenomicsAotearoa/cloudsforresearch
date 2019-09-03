@@ -1,7 +1,7 @@
 
 # Clouds for Research
 
-Cloud computing is something many people talk about, but don't necessarily understand. Cloud computing environments are pay-for-use services offered by companies big and small to make it easy to have internet connected servers which can be used for many business applications. Cloud providers range from IaaS (Infrastructure as a Service) to SaaS (Software as a Service) with PaaS (Platform as a Service) in-between. This document is meant to provide a bit of demystification around cloud services and how they can be utilised for research purposes. In this document, we will largely focus on IaaS, further explained below. This work is supported by Genomics Aotearoa, but is generally applicable in many research areas. 
+Cloud computing is something many people talk about these days, as more and more tools get added to the commercial cloud environments, getting started is a dizzying array of acronymns and terms, each term often unique to a particular cloud environment. Cloud computing environments are pay-for-use services offered by companies big and small to make it easy to have internet connected servers which can be used for many business applications. Cloud providers range from IaaS (Infrastructure as a Service) to SaaS (Software as a Service) with PaaS (Platform as a Service) in-between. This document is meant to provide a bit of demystification around cloud services and how they can be utilised for research purposes. In this document, we will largely focus on IaaS, further explained below. This work is supported by Genomics Aotearoa, but is generally applicable in many research areas. 
 
 ## Cloud Jargon 
 
