@@ -164,16 +164,17 @@ Digital ocean speciallises in packaged VMs where the monthly cost is manageable 
 
 The [Cloud Compute](https://www.vultr.com/products/cloud-compute/) product at [Vultr](https://vultr.com) is A low-cost and very simple cloud provider.  With VMs starting at US $2.50 per month, and data centers around the world, Vultr is a simple and low cost solution for Virtual Machines very similar to Digital Ocean. 
 
-#### RStudio cloud
+### HPC 
 
-
-### What about HPC 
-
-New Zealand is fortunate enough to have NeSI - The New Zealand eScience Infrastrucutre, a collaboration of academic institutions, CRIs and govt to bring a world class HPC environment to NZ. While this document focuses largely on cloud environments, NeSI provides a research platform that can potentially be used in your research for little or no direct cost to your project. It is worth exploring how NeSI's tools, platforms and services might be a better fit for your research application. If you know you'll need huge amounts of shared memory and multi-core computational capabilities, it is most likely worth using the NeSI platform to support your research. 
+New Zealand is fortunate enough to have NeSI - [The New Zealand eScience Infrastrucutre](https://www.nesi.org.nz), a collaboration of academic institutions, CRIs and govt to bring a world class HPC environment to NZ. While this document focuses largely on cloud environments, NeSI provides a research platform that can be used in your research for little or no direct cost to your project. If your requirements dicate constant CPU usage for weeks or months, there is a good chance that NeSI solutions will work best for you. If not, there is a reasonable chance that a cloud environment could provide the balance of flexibility and cost that can accelerate your path to research insigths. 
 
 ### Research Network Considerations 
 
-REANNZ stuff goes here. 
+REANNZ can help you to consider cloud providers and considerations aroud data transfer costs if your research application
+has extreme data requirements. Cloud providers often charge data-in data-out charges for network transfers and in some 
+cases these can be avoided by using the peering relationships organisations like REANNZ have negotiated. 
+
+If you're at a NZ research organisation who is a member of REANNZ, contact your REANNZ advisor to learn more about: 
 
 * Peering where, when how 
 * End to end care of data
